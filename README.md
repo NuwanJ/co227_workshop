@@ -1,2 +1,6 @@
 # co227_workshop
-Sample Description
+
+
+Developers
+
+- Nuwan Jaliyagoda 
